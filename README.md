@@ -1,6 +1,9 @@
 # Smart Hostel Room & Bed Allocation System (HMS)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YugSohaliya/Hostel-Management-System)
+[![Live Demo](https://img.shields.io/badge/Render-Live_Demo-46E3B7?logo=render&logoColor=white)](https://smart-hostel-system-gdzr.onrender.com)
+
+**🌐 Live Application**: [https://smart-hostel-system-gdzr.onrender.com](https://smart-hostel-system-gdzr.onrender.com)
 
 A modern, full-featured web application for managing hostel room and bed allocations, student records, and occupancy analytics.
 
